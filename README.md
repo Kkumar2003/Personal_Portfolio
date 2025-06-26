@@ -47,15 +47,15 @@ src/
 
 | Home Page                     | About Page                    |
 |------------------------------|-------------------------------|
-| ![Home](![Portfolio](https://github.com/user-attachments/assets/a70b44a7-64f1-4700-9a3d-bb2f0a637e8e)
-) | ![About](![About](https://github.com/user-attachments/assets/9c5ef4f8-0236-4767-aab3-70a283373ed1)
-) |
+ [Home](https://github.com/user-attachments/assets/a70b44a7-64f1-4700-9a3d-bb2f0a637e8e)
+ [About](https://github.com/user-attachments/assets/9c5ef4f8-0236-4767-aab3-70a283373ed1)
+ 
 
 | Skills Page                  | Projects Page                 |
 |-----------------------------|-------------------------------|
-| ![Skills](![Skill](https://github.com/user-attachments/assets/01c78bfb-4c1b-4d4e-9cde-e74b7431207c)
-) | ![Projects](![Project](https://github.com/user-attachments/assets/cde615ad-fc9b-4c66-978c-b6ab46c50b35)
-) |
+[Skills](https://github.com/user-attachments/assets/01c78bfb-4c1b-4d4e-9cde-e74b7431207c)
+[Projects](https://github.com/user-attachments/assets/cde615ad-fc9b-4c66-978c-b6ab46c50b35)
+
 
 ## 🌍 Live Demo
 
