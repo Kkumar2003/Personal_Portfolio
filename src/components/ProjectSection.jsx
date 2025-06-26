@@ -15,7 +15,7 @@ const projects = [
         title: "Portfolio Website",
         description: "A personal portfolio built with React and Tailwind CSS showcasing my work and skills.",
         tech: ["React", "Tailwind CSS"],
-        link: "",
+        link: "https://personal-portfolio-alpha-rust.vercel.app/",
         image: Portfolio,
     },
     {
