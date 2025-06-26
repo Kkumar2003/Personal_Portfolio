@@ -170,7 +170,7 @@ const HomeSection = () => {
             viewport={{ once: true }}
           />
           <iframe
-            src="/Kartik_Kumar_Resume_Enhanced.pdf"
+            src="/Kartik_Kumar_Resume_Enhanced (1).pdf"
             title="Kartik Kumar Resume"
             className="w-full h-[400px] md:h-[600px] bg-white"
             frameBorder="0"
