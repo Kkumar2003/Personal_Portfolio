@@ -49,11 +49,15 @@ src/
 
 | Home Page                     | About Page                    |
 |------------------------------|-------------------------------|
-| ![Home](https://github.com/user-attachments/assets/a70b44a7-64f1-4700-9a3d-bb2f0a637e8e) | ![About](https://github.com/user-attachments/assets/9c5ef4f8-0236-4767-aab3-70a283373ed1) |
+| ![Home](![Home](https://github.com/user-attachments/assets/ba74eeec-aa2f-48db-93cf-0ac418da82d3)
+) | ![About](![About](https://github.com/user-attachments/assets/f15b4d2b-6ad7-4ae8-9023-8ea8e54aa643)
+) |
 
 | Skills Page                  | Projects Page                 |
 |-----------------------------|-------------------------------|
-| ![Skills](https://github.com/user-attachments/assets/01c78bfb-4c1b-4d4e-9cde-e74b7431207c) | ![Projects](https://github.com/user-attachments/assets/cde615ad-fc9b-4c66-978c-b6ab46c50b35) |
+| ![Skills](![Skill](https://github.com/user-attachments/assets/1a4fe16d-74af-4300-a62b-69c591c1e79e)
+) | ![Projects](![Project](https://github.com/user-attachments/assets/0ee35cf2-0c84-45ce-9c2e-bccbf40525fc)
+) |
 
 > You can store these images in a `/screenshots` folder at the root of your project.
 
