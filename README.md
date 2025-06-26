@@ -66,6 +66,6 @@ src/
 
 You can view the live version of this portfolio here:
 
-👉 (personal-portfolio-alpha-rust.vercel.app)
+👉 (https://personal-portfolio-alpha-rust.vercel.app/)
 
 
