@@ -47,17 +47,17 @@ src/
 
 ## 📸 Screenshots
 
-| Home Page                      About Page                    |
-|------------------------------|-------------------------------|
+| Home Page          &            About Page                    |
+
 | ![Home](https://github.com/user-attachments/assets/ba74eeec-aa2f-48db-93cf-0ac418da82d3)
 | ![About](https://github.com/user-attachments/assets/f15b4d2b-6ad7-4ae8-9023-8ea8e54aa643)
-|
 
-| Skills Page                   Projects Page                 |
-|-----------------------------|-------------------------------|
+
+| Skills Page           &        Projects Page                 |
+
 | ![Skill](https://github.com/user-attachments/assets/1a4fe16d-74af-4300-a62b-69c591c1e79e)
 | ![Project](https://github.com/user-attachments/assets/0ee35cf2-0c84-45ce-9c2e-bccbf40525fc)
-|
+
 
 
 
